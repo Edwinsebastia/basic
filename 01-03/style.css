@@ -1,0 +1,21 @@
+h1{
+    background-color: blueviolet;
+    color: antiquewhite;
+    text-align: center;
+}
+
+#firsthead{
+    background-color: aqua;
+    color: aliceblue;
+    text-align: center;
+}
+#firstpara{
+    background-color: aquamarine;
+    color: aliceblue;
+    text-align: center;
+}
+.one{
+    background-color: red;
+    color: black;
+    text-align: center;
+}
