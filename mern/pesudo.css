@@ -1,0 +1,13 @@
+button{
+    background-color: aqua;
+    color: brown;
+
+}
+button:hover{
+    background-color: darkcyan;
+    border: 10px;
+    transition: .5s;
+}
+p::first-line{
+    color: blueviolet;
+}
